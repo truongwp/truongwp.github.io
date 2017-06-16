@@ -53,6 +53,11 @@ body {
   text-decoration: none;
 }
 
+.primary-titles a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .location {
   color: #58585B;
   display: inline-block;
@@ -106,6 +111,6 @@ body {
 
 hr {
   border: 1px dotted #A7A9AB;
-  border-style: none none dotted; 
+  border-style: none none dotted;
   margin: 0 10% 0 0;
 }
