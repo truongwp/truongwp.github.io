@@ -109,6 +109,10 @@ body {
   margin-top: .01em;
 }
 
+.category-description a {
+  color: inherit;
+}
+
 hr {
   border: 1px dotted #A7A9AB;
   border-style: none none dotted;
